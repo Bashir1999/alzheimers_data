@@ -2,14 +2,15 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is Alzheimer's Disease Dataset
+Link to dataset: https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
+ * (insert your question or task here) What is the distribution of Alzheimer's diagnosis across different age groups? 
  * (insert your question or task here) Is there any correlation between X and Y?
  * (insert your question or task here) Are there interesting spatial patterns in X?
  * (insert your question or task here) How many X are there across different Y?
