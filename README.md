@@ -11,14 +11,22 @@ Link to dataset: https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disea
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * What is the distribution of Alzheimer's diagnosis across different age groups? 
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How does the diagnosis rate vary between different genders?
+ * What is the relationship between BMI and Alzheimer's diagnosis?
+ * How does educational level correlate with the risk of Alzheimer's?
+ * What is the effect of smoking and alcohol consumption on Alzheimer's diagnosis?
+ * What is the correlation between cholesterol levels (total, LDL, HDL, and triglycerides) and Alzheimer's diagnosis?
+ * What is the relationship between head injuries and Alzheimer's?
+ * What are the major risk factors for Alzheimer's in different ethnic groups?
+ * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
+ * How do diet and physical activity levels interact to affect Alzheimer’s diagnosis?
 
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+![image](https://github.com/user-attachments/assets/443e338c-9790-4c94-94da-c65779228977)
 
 
 ## Prototypes
