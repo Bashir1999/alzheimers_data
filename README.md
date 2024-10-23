@@ -10,8 +10,8 @@ Link to dataset: https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disea
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * What is the relationship between BMI and Alzheimer's diagnosis?
- * What is the distribution of Alzheimer's diagnosis across different age groups? 
+ * What is the relationship between BMI and Alzheimer's diagnosis? -- Done
+ * What is the distribution of Alzheimer's diagnosis across different age groups? -- Done
  * How does the diagnosis rate vary between different genders?
  * How does educational level correlate with the risk of Alzheimer's?
  * What is the effect of smoking and alcohol consumption on Alzheimer's diagnosis?
@@ -48,16 +48,21 @@ The data is visualized as a scatter plot showing the relationship between Choles
 
 Relationship between BMI & Alzheimer's Diagnosis:
 https://vizhub.com/Bashir1999/bmi_alzheimer
+
 <img width="795" alt="Screenshot 1403-08-01 at 21 11 21" src="https://github.com/user-attachments/assets/e3e18c8d-50fe-4a7d-b112-247d14da0bb5">
+
 
 
 
 
 Distribution of Alzheimer's diagnosis across different age groups:
 https://vizhub.com/Bashir1999/agegroup_alzheimer
+
 <img width="792" alt="Screenshot 1403-08-01 at 21 11 48" src="https://github.com/user-attachments/assets/04b91ff7-fbe5-4d77-8cf0-585f9ecf3e77">
 
 
+
+How does the diagnosis rate vary between different genders?
 
 
 
