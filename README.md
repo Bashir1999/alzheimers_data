@@ -64,6 +64,17 @@ https://vizhub.com/Bashir1999/agegroup_alzheimer
 
 How does the diagnosis rate vary between different genders?
 
+<img width="809" alt="Screenshot 1403-08-02 at 18 08 55" src="https://github.com/user-attachments/assets/c7b21874-02c4-4c3d-8a7b-29589d405c7c">
+
+
+
+How does educational level correlate with the risk of Alzheimer's?
+
+<img width="807" alt="Screenshot 1403-08-02 at 18 21 27" src="https://github.com/user-attachments/assets/816b1e7e-a1f8-46f7-8f5d-b73c1aa7fdfc">
+
+
+
+
 
 
 ## Milestones
