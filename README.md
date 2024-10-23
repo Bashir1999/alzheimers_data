@@ -16,7 +16,7 @@ The following tasks and questions will drive the visualization and interaction d
  * How does educational level correlate with the risk of Alzheimer's? -- Done
  * What is the effect of smoking and alcohol consumption on Alzheimer's diagnosis? --
  * What is the correlation between cholesterol levels (total, LDL, HDL, and triglycerides) and Alzheimer's diagnosis?
- * What is the relationship between head injuries and Alzheimer's? 
+ * What is the relationship between head injuries and Alzheimer's? -- DONE
  * What are the major risk factors for Alzheimer's in different ethnic groups?
  * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
  * How do diet and physical activity levels interact to affect Alzheimer’s diagnosis?
@@ -63,20 +63,28 @@ https://vizhub.com/Bashir1999/agegroup_alzheimer
 
 
 How does the diagnosis rate vary between different genders?
+https://vizhub.com/Bashir1999/genders-diagnosis
 
 <img width="809" alt="Screenshot 1403-08-02 at 18 08 55" src="https://github.com/user-attachments/assets/c7b21874-02c4-4c3d-8a7b-29589d405c7c">
 
 
 
 How does educational level correlate with the risk of Alzheimer's?
+https://vizhub.com/Bashir1999/education-diagnosis
 
 <img width="807" alt="Screenshot 1403-08-02 at 18 21 27" src="https://github.com/user-attachments/assets/816b1e7e-a1f8-46f7-8f5d-b73c1aa7fdfc">
 
 
 What is the relationship between head injuries and Alzheimer's? 
+https://vizhub.com/Bashir1999/head-injuries-diagnosis
 
 <img width="793" alt="Screenshot 1403-08-02 at 19 14 44" src="https://github.com/user-attachments/assets/41169947-130a-4008-b342-9e8aa86f0c3c">
 
+
+Relationship between BMI and Diet Quality:
+https://vizhub.com/Bashir1999/bmi-diet
+
+<img width="778" alt="Screenshot 1403-08-02 at 19 33 31" src="https://github.com/user-attachments/assets/f248ef08-ac2c-42b9-9789-f456fd289a52">
 
 
 
