@@ -12,11 +12,11 @@ The following tasks and questions will drive the visualization and interaction d
 
  * What is the relationship between BMI and Alzheimer's diagnosis? -- Done
  * What is the distribution of Alzheimer's diagnosis across different age groups? -- Done
- * How does the diagnosis rate vary between different genders?
- * How does educational level correlate with the risk of Alzheimer's?
- * What is the effect of smoking and alcohol consumption on Alzheimer's diagnosis?
+ * How does the diagnosis rate vary between different genders? -- Done
+ * How does educational level correlate with the risk of Alzheimer's? -- Done
+ * What is the effect of smoking and alcohol consumption on Alzheimer's diagnosis? --
  * What is the correlation between cholesterol levels (total, LDL, HDL, and triglycerides) and Alzheimer's diagnosis?
- * What is the relationship between head injuries and Alzheimer's?
+ * What is the relationship between head injuries and Alzheimer's? 
  * What are the major risk factors for Alzheimer's in different ethnic groups?
  * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
  * How do diet and physical activity levels interact to affect Alzheimer’s diagnosis?
@@ -72,6 +72,8 @@ How does educational level correlate with the risk of Alzheimer's?
 
 <img width="807" alt="Screenshot 1403-08-02 at 18 21 27" src="https://github.com/user-attachments/assets/816b1e7e-a1f8-46f7-8f5d-b73c1aa7fdfc">
 
+
+What is the relationship between head injuries and Alzheimer's? 
 
 
 
