@@ -21,6 +21,7 @@ The following tasks and questions will drive the visualization and interaction d
  * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
  * How do diet and physical activity levels interact to affect Alzheimer’s diagnosis?
  * What is the impact of memory complaints on Alzheimer’s diagnosis?
+ * Avg Cholesterol by Age Group -- DONE
 
 ## Sketches
 
@@ -85,6 +86,11 @@ Relationship between BMI and Diet Quality:
 https://vizhub.com/Bashir1999/bmi-diet
 
 <img width="778" alt="Screenshot 1403-08-02 at 19 33 31" src="https://github.com/user-attachments/assets/f248ef08-ac2c-42b9-9789-f456fd289a52">
+
+Avg Cholesterol by Age Group:
+https://vizhub.com/Bashir1999/avgcholester
+
+<img width="790" alt="Screenshot 1403-08-02 at 19 49 28" src="https://github.com/user-attachments/assets/13857594-8ab8-4d38-84fe-30770736a112">
 
 
 
