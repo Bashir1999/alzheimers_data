@@ -75,6 +75,7 @@ How does educational level correlate with the risk of Alzheimer's?
 
 What is the relationship between head injuries and Alzheimer's? 
 
+<img width="793" alt="Screenshot 1403-08-02 at 19 14 44" src="https://github.com/user-attachments/assets/41169947-130a-4008-b342-9e8aa86f0c3c">
 
 
 
