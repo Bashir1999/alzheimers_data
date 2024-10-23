@@ -48,9 +48,16 @@ The data is visualized as a scatter plot showing the relationship between Choles
 
 Relationship between BMI & Alzheimer's Diagnosis:
 https://vizhub.com/Bashir1999/bmi_alzheimer
+<img width="795" alt="Screenshot 1403-08-01 at 21 11 21" src="https://github.com/user-attachments/assets/e3e18c8d-50fe-4a7d-b112-247d14da0bb5">
+
+
+
 
 Distribution of Alzheimer's diagnosis across different age groups:
 https://vizhub.com/Bashir1999/agegroup_alzheimer
+<img width="792" alt="Screenshot 1403-08-01 at 21 11 48" src="https://github.com/user-attachments/assets/04b91ff7-fbe5-4d77-8cf0-585f9ecf3e77">
+
+
 
 
 
