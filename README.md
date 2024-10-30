@@ -53,6 +53,13 @@ https://vizhub.com/Bashir1999/bmi_alzheimer
 
 <img width="795" alt="Screenshot 1403-08-01 at 21 11 21" src="https://github.com/user-attachments/assets/e3e18c8d-50fe-4a7d-b112-247d14da0bb5">
 
+In each BMI category (15-19, 20-24, 25-29, 30-34, 35-39), the number of individuals who are "Not Diagnosed" is consistently higher than those who are "Diagnosed." This indicates that, across all BMI ranges, a majority of individuals do not have an Alzheimer's diagnosis.
+
+The chart does not show a clear trend in Alzheimer's diagnosis rates based on BMI. For example, the diagnosis rates in lower BMI categories (15-19, 20-24) are similar to those in higher BMI categories (30-34, 35-39).
+This suggests that BMI may not be a strong indicator of Alzheimer's diagnosis, as there doesn’t appear to be a direct correlation between BMI and Alzheimer’s risk in this dataset.
+
+The 20-24 BMI range has the highest number of Alzheimer's diagnoses among all categories. This could indicate a higher prevalence within this range, though it may also be reflective of the distribution of patients across different BMI categories in the dataset.
+
 
 
 
@@ -62,6 +69,18 @@ https://vizhub.com/Bashir1999/agegroup_alzheimer
 
 <img width="792" alt="Screenshot 1403-08-01 at 21 11 48" src="https://github.com/user-attachments/assets/04b91ff7-fbe5-4d77-8cf0-585f9ecf3e77">
 
+The chart shows an increase in the number of Alzheimer’s diagnoses (Diagnosis Positive) with age up to the 85-89 age group. This suggests that Alzheimer’s is more common in older populations, supporting the understanding that age is a significant risk factor for the disease.
+
+The 85-89 age group has the highest number of Alzheimer’s diagnoses, indicating that this age range may be particularly vulnerable to Alzheimer’s.
+After the 85-89 age group, there is a noticeable decline in both diagnosed and non-diagnosed individuals in the 90-94 group, which could reflect the reduced sample size or the challenges associated with aging.
+
+In all age groups, the "Diagnosis Negative" count is higher than the "Diagnosis Positive" count, which is expected, as not everyone in these age groups develops Alzheimer’s.
+However, the gap between "Diagnosis Negative" and "Diagnosis Positive" decreases with age, indicating a higher proportion of Alzheimer’s diagnoses in older age groups.
+
+The decline in both diagnosed and not diagnosed cases in the 90-94 age group could be due to a smaller population reaching this age or the increased mortality associated with advancing age, reducing the number of individuals in this category.
+
+
+
 
 
 How does the diagnosis rate vary between different genders?
@@ -69,6 +88,12 @@ https://vizhub.com/Bashir1999/genders-diagnosis
 
 <img width="809" alt="Screenshot 1403-08-02 at 18 08 55" src="https://github.com/user-attachments/assets/c7b21874-02c4-4c3d-8a7b-29589d405c7c">
 
+The diagnosis rates between males and females are relatively close, indicating that gender alone may not be a significant differentiating factor for Alzheimer’s diagnosis in this dataset.
+Both genders have approximately the same proportion of diagnosed cases, with males slightly higher than females.
+
+Although the difference is small, males show a marginally higher rate of Alzheimer’s diagnosis compared to females. This could suggest a minor gender-related factor, but the gap is not large enough to draw strong conclusions about gender as a risk factor.
+
+The similar diagnosis rates suggest that Alzheimer’s may affect both genders similarly, supporting the idea that other factors such as age, lifestyle, education level, or genetics may play a more significant role in Alzheimer’s risk than gender alone.
 
 
 How does educational level correlate with the risk of Alzheimer's?
@@ -76,11 +101,31 @@ https://vizhub.com/Bashir1999/education-diagnosis
 
 <img width="807" alt="Screenshot 1403-08-02 at 18 21 27" src="https://github.com/user-attachments/assets/816b1e7e-a1f8-46f7-8f5d-b73c1aa7fdfc">
 
+Across all education levels, a higher percentage of individuals without a diagnosis (Not Diagnosed) is evident, but the proportion of diagnosed individuals varies slightly.
+The Bachelor's and Higher education groups have a slightly higher proportion of individuals who are "Not Diagnosed" compared to those with no formal education or only a high school education.
+
+Individuals with no formal education or only a high school education tend to have a relatively higher proportion of Alzheimer’s diagnoses than those with a Bachelor's or Higher education level.
+This trend suggests that lower educational attainment may be associated with an increased risk of Alzheimer’s diagnosis.
+
+The data supports the idea of a protective effect of education against Alzheimer's, as higher education levels are associated with lower diagnosis rates. This might be due to cognitive reserve, where individuals with more education build resilience in their brain function, potentially delaying the onset or reducing the risk of Alzheimer’s.
+
+
 
 What is the relationship between head injuries and Alzheimer's? 
 https://vizhub.com/Bashir1999/head-injuries-diagnosis
 
 <img width="793" alt="Screenshot 1403-08-02 at 19 14 44" src="https://github.com/user-attachments/assets/41169947-130a-4008-b342-9e8aa86f0c3c">
+
+The Head Injury group has a noticeably higher proportion of patients diagnosed with Alzheimer's compared to the No Head Injury group. This suggests that a history of head injury might be associated with an increased risk of Alzheimer’s.
+
+In the No Head Injury group, the majority of patients are in the "Not Diagnosed" category, with a smaller percentage diagnosed with Alzheimer’s.
+Conversely, for those with a Head Injury, the percentage of Alzheimer’s diagnoses is higher, indicating that head injuries may play a significant role in the likelihood of developing Alzheimer’s.
+
+These results underscore the potential long-term impact of head injuries on cognitive health. Individuals with a history of head injuries might require closer monitoring for Alzheimer’s and other cognitive issues as they age.
+Preventative measures to reduce head injuries, such as promoting helmet use, fall prevention, and workplace safety, could contribute to lowering the risk of Alzheimer’s in the population.
+
+
+
 
 
 Relationship between BMI and Diet Quality:
@@ -88,16 +133,44 @@ https://vizhub.com/Bashir1999/bmi-diet
 
 <img width="778" alt="Screenshot 1403-08-02 at 19 33 31" src="https://github.com/user-attachments/assets/f248ef08-ac2c-42b9-9789-f456fd289a52">
 
+The data points are widely dispersed, indicating no obvious linear or non-linear relationship between BMI and Diet Quality. This suggests that individuals with a high or low BMI can have any level of diet quality, from poor to excellent.
+
+
+
 Avg Cholesterol by Age Group:
 https://vizhub.com/Bashir1999/avgcholester
 
 <img width="790" alt="Screenshot 1403-08-02 at 19 49 28" src="https://github.com/user-attachments/assets/13857594-8ab8-4d38-84fe-30770736a112">
+
+The average cholesterol levels fluctuate slightly across different age groups but generally remain within a narrow range of about 220–230 mg/dL.
+This suggests that while there are some variations, cholesterol levels are relatively stable as age increases in this dataset.
+
+There is a noticeable peak in the 85-89 age group where the average cholesterol level is around 228 mg/dL, followed by a slight decline in the 90-94 age group.
+The lowest average cholesterol level is observed in the 75-79 age group, where it dips below 224 mg/dL.
+
+The line chart shows a slight downward trend in cholesterol levels from the 70-74 to the 75-79 age group, suggesting that cholesterol levels may decrease slightly in the late 70s.
+However, there is a subsequent rise from the 75-79 to the 80-84 age group, followed by another increase in the 85-89 age group, indicating some variability in older age.
+
 
 
 Relationship between Physical Activity and Alzheimer's Diagnosis:
 https://vizhub.com/Bashir1999/physical-activity-alzheimers
 
 <img width="780" alt="Screenshot 1403-08-08 at 17 15 06" src="https://github.com/user-attachments/assets/9e2ced6f-e77e-4992-b3f4-f4d402f29449">
+
+Across all levels of physical activity (Active, Barely Active, Highly Active, Moderately Active), the "Diagnosis Negative" group consistently has a higher number of patients than the "Diagnosis Positive" group. This suggests a trend where higher physical activity levels are associated with a reduced likelihood of an Alzheimer’s diagnosis.
+Among the Moderately Active and Active groups, the difference between "Diagnosis Negative" and "Diagnosis Positive" is the most pronounced, indicating that moderate to high physical activity might offer protective benefits against Alzheimer’s.
+
+The Barely Active group has the smallest difference between "Diagnosis Negative" and "Diagnosis Positive" counts, suggesting that low physical activity levels may correlate with a higher risk of Alzheimer’s. The smaller gap in this category could imply that insufficient activity could be a potential risk factor.
+
+The Active and Moderately Active groups both have high numbers of "Diagnosis Negative" patients, suggesting that these activity levels might be particularly beneficial for maintaining cognitive health.
+Highly Active individuals also show a larger "Diagnosis Negative" count compared to "Diagnosis Positive," but the difference is less dramatic than in the Moderately Active group, possibly due to fewer people falling into this category or other confounding factors.
+
+This data suggests that moderate to high levels of physical activity may be beneficial for reducing Alzheimer’s risk. Encouraging physical activity, particularly at moderate levels, could be a practical recommendation for promoting cognitive health and potentially lowering Alzheimer’s incidence.
+The observed trend across all physical activity categories supports the idea that even some level of physical activity (as opposed to being barely active) may be protective against Alzheimer’s.
+
+
+
 
 
 
@@ -106,12 +179,24 @@ https://vizhub.com/Bashir1999/diet-alzheimer
 
 <img width="794" alt="Screenshot 1403-08-08 at 17 34 45" src="https://github.com/user-attachments/assets/c962d006-b976-4c76-a31c-2b83dd629f2a">
 
+Patients with Excellent diet quality show fewer Alzheimer's diagnoses compared to those with lower diet quality. The "Diagnosis Negative" bars are taller than the "Diagnosis Positive" bars in this category, suggesting a potential protective effect of high diet quality.
+
+Interestingly, Fair and Good diet quality levels have a similar pattern, with "Diagnosis Negative" counts significantly higher than "Diagnosis Positive." However, both categories also have a relatively high number of Alzheimer's diagnoses.
+This suggests that while a fair or good diet quality might reduce the risk compared to poor diet quality, it may not be as protective as an excellent diet.
+
+Among patients with Poor diet quality, there is a considerable number of Alzheimer's diagnoses, almost equaling the number of non-diagnosed patients. This indicates that poor diet quality may be associated with a higher risk of Alzheimer’s diagnosis.
+
+
 
 What is the impact of memory complaints on Alzheimer’s diagnosis?
 https://vizhub.com/Bashir1999/memory-alzheimer
 
 <img width="800" alt="Screenshot 1403-08-08 at 17 40 54" src="https://github.com/user-attachments/assets/28960d7f-3efb-4141-ad1e-ea985093dbff">
 
+Among patients with memory complaints (Yes), a higher number are diagnosed with Alzheimer's (Diagnosis Positive) compared to those not diagnosed (Diagnosis Negative).
+This suggests that memory complaints are a potential indicator or symptom associated with Alzheimer's, as individuals reporting memory issues are more likely to receive a positive diagnosis.
+Interestingly, the majority of patients who do not report memory complaints (No) are in the Diagnosis Negative category, meaning they are not diagnosed with Alzheimer's.
+However, there is still a significant number of patients without memory complaints who are diagnosed with Alzheimer's, indicating that some Alzheimer's cases may not initially present with memory complaints.
 
 
 What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
@@ -132,7 +217,11 @@ https://vizhub.com/Bashir1999/avgdepressionrateethnicity
 <img width="792" alt="Screenshot 1403-08-08 at 22 28 12" src="https://github.com/user-attachments/assets/4e57051d-ef73-40aa-b785-e0da48e761ca">
 
 
-
+For most ethnic groups, females show a higher average depression rate than males. This trend is evident in the "Other" and "African American" categories, where the female depression rate is significantly higher.
+In the Caucasian and Asian groups, the depression rates between males and females are relatively similar, indicating less gender disparity in these groups.
+"Other" Ethnicity: This group shows the highest depression rate, especially among females. This could indicate that individuals in this category are at a higher risk of depression, possibly due to unique socio-cultural or environmental factors.
+African American and Asian groups show moderate depression rates, with females slightly higher than males.
+Caucasian Group: This group has relatively balanced rates between genders, with both males and females showing moderate levels of depression compared to the "Other" group.
 
 
 
