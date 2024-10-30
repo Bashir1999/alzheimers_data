@@ -18,9 +18,10 @@ The following tasks and questions will drive the visualization and interaction d
  * What is the correlation between cholesterol levels (total, LDL, HDL, and triglycerides) and Alzheimer's diagnosis?
  * What is the relationship between head injuries and Alzheimer's? -- DONE
  * What are the major risk factors for Alzheimer's in different ethnic groups?
- * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
- * How do diet and physical activity levels interact to affect Alzheimer’s diagnosis?
- * What is the impact of memory complaints on Alzheimer’s diagnosis?
+ * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients? -- DONE
+ * How do physical activity interact to affect Alzheimer’s diagnosis? -- DONE
+ * How do diet interact to affect Alzheimer’s diagnosis? -- DONE
+ * What is the impact of memory complaints on Alzheimer’s diagnosis? -- DONE
  * Avg Cholesterol by Age Group -- DONE
 
 ## Sketches
@@ -91,6 +92,48 @@ Avg Cholesterol by Age Group:
 https://vizhub.com/Bashir1999/avgcholester
 
 <img width="790" alt="Screenshot 1403-08-02 at 19 49 28" src="https://github.com/user-attachments/assets/13857594-8ab8-4d38-84fe-30770736a112">
+
+
+Relationship between Physical Activity and Alzheimer's Diagnosis:
+https://vizhub.com/Bashir1999/physical-activity-alzheimers
+
+<img width="780" alt="Screenshot 1403-08-08 at 17 15 06" src="https://github.com/user-attachments/assets/9e2ced6f-e77e-4992-b3f4-f4d402f29449">
+
+
+
+Relationship between Diet Quality and Alzheimer's Diagnosis:
+https://vizhub.com/Bashir1999/diet-alzheimer
+
+<img width="794" alt="Screenshot 1403-08-08 at 17 34 45" src="https://github.com/user-attachments/assets/c962d006-b976-4c76-a31c-2b83dd629f2a">
+
+
+What is the impact of memory complaints on Alzheimer’s diagnosis?
+https://vizhub.com/Bashir1999/memory-alzheimer
+
+<img width="800" alt="Screenshot 1403-08-08 at 17 40 54" src="https://github.com/user-attachments/assets/28960d7f-3efb-4141-ad1e-ea985093dbff">
+
+
+
+What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
+https://vizhub.com/Bashir1999/alcohol-sleep-alzheimer
+
+<img width="829" alt="Screenshot 1403-08-08 at 20 18 45" src="https://github.com/user-attachments/assets/d068640f-ae32-4c69-8770-792acab6c9a3">
+
+
+This heatmap suggests that alcohol consumption does not have a significant observable impact on sleep quality scores among Alzheimer's patients in this dataset. High sleep quality (8-10) is common across all levels of alcohol intake, and there are fewer patients with lower sleep quality (4-5), regardless of their alcohol consumption levels. This may indicate that other factors, not shown here, play a larger role in determining sleep quality among these patients.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
