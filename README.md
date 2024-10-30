@@ -126,8 +126,10 @@ This heatmap suggests that alcohol consumption does not have a significant obser
 
 
 
+Avg Depression Rate by Ethnicity and Gender:
+https://vizhub.com/Bashir1999/avgdepressionrateethnicity
 
-
+<img width="792" alt="Screenshot 1403-08-08 at 22 28 12" src="https://github.com/user-attachments/assets/4e57051d-ef73-40aa-b785-e0da48e761ca">
 
 
 
