@@ -23,6 +23,7 @@ The following tasks and questions will drive the visualization and interaction d
  * How do diet interact to affect Alzheimer’s diagnosis? -- DONE
  * What is the impact of memory complaints on Alzheimer’s diagnosis? -- DONE
  * Avg Cholesterol by Age Group -- DONE
+ * What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients? -- DONE
 
 ## Sketches
 
@@ -224,7 +225,45 @@ African American and Asian groups show moderate depression rates, with females s
 Caucasian Group: This group has relatively balanced rates between genders, with both males and females showing moderate levels of depression compared to the "Other" group.
 
 
+What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients?
+https://vizhub.com/Bashir1999/alcohol-sleep-depression
 
+<img width="982" alt="Screenshot 1403-08-17 at 16 11 34" src="https://github.com/user-attachments/assets/b8221de7-b79f-4045-b89c-b08ee6229101">
+
+
+Inverse Relationship Between Alcohol Consumption and Sleep Quality: The graph shows a downward trend, suggesting that as alcohol consumption increases, sleep quality tends to decrease. This inverse relationship may indicate that higher levels of alcohol intake have a negative impact on sleep quality.
+
+Distribution of Depression Status: The two colors (orange and blue) represent different Depression statuses (0 and 1). It appears that data points for both depression groups are intermingled across all levels of Alcohol Consumption and Sleep Quality. However, there might be patterns worth exploring, such as potential clusters or distribution differences between these two groups.
+
+Clustering of Data Points at Low Alcohol Consumption: A noticeable clustering of data points can be seen on the left side of the x-axis (lower values of Alcohol Consumption). This may indicate that a significant number of individuals have relatively low alcohol intake levels, with varying levels of Sleep Quality.
+
+Overlapping Data Points: The overlapping of blue and orange data points in many regions suggests that both groups (with and without depression) experience a range of sleep qualities and alcohol consumption behaviors. This overlap might indicate that the Depression status does not solely depend on Alcohol Consumption or Sleep Quality.
+
+
+
+
+
+How do MMSE scores vary with Age and BMI across different diagnosis statuses? (Sample 100 Data Points)
+
+https://vizhub.com/Bashir1999/mmse-bmi
+
+<img width="736" alt="Screenshot 1403-08-17 at 16 45 38" src="https://github.com/user-attachments/assets/75838b52-69d8-4213-a443-7a0da82b467b">
+
+
+
+Age and MMSE Scores Trend:
+There appears to be a general downward trend in MMSE scores as Age increases, indicating that older individuals tend to have lower MMSE scores, which may reflect a decline in cognitive function with age.
+The distribution of lines suggests that this trend might be more pronounced for individuals diagnosed with Alzheimer's (e.g., lines in one color cluster lower in MMSE scores as Age increases).
+BMI Distribution:
+BMI does not exhibit a very clear relationship with MMSE scores in this plot. There is a spread of individuals with a wide range of BMIs across both high and low MMSE scores, suggesting that BMI alone might not be a strong predictor of cognitive function.
+However, some patterns may exist in clustering or distribution between different Diagnosis statuses in terms of BMI values.
+Variability in Cognitive Scores (MMSE):
+There is significant variability in MMSE scores even among individuals of similar Age and BMI. This indicates that factors other than Age and BMI play an essential role in cognitive function, as measured by MMSE scores.
+Diagnosis Status and Line Patterns:
+The lines for different Diagnosis statuses (distinguished by color) appear to have different patterns. For example, individuals with Alzheimer's might show lower MMSE scores more frequently across various Age groups, while individuals without Alzheimer's may have a broader range of MMSE scores, including higher values.
+This indicates that Alzheimer's diagnosis is associated with lower cognitive performance, though there is still substantial overlap, meaning that not all low MMSE scores correspond strictly to Alzheimer's diagnosis.
+Potential Clusters and Overlaps:
+While there are clusters of lines in certain regions (e.g., higher Age with lower MMSE scores), the overlap among lines suggests a complex relationship where Diagnosis, Age, and BMI interact. More variables or detailed clustering analyses may be needed for further differentiation.
 
 
 
