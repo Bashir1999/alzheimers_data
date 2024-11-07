@@ -14,7 +14,7 @@ The following tasks and questions will drive the visualization and interaction d
  * What is the distribution of Alzheimer's diagnosis across different age groups? -- Done
  * How does the diagnosis rate vary between different genders? -- Done
  * How does educational level correlate with the risk of Alzheimer's? -- Done
- * What is the effect of smoking and alcohol consumption on Alzheimer's diagnosis? --
+ * How do the average values of key lifestyle, cognitive, and demographic variables differ between individuals diagnosed with Alzheimer's (Diagnosis = 1) and those not diagnosed (Diagnosis = 0)? -- DONE
  * What is the relationship between head injuries and Alzheimer's? -- DONE
  * How do MMSE scores vary with Age and BMI across different diagnosis statuses? -- DONE
  * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients? -- DONE
@@ -263,6 +263,31 @@ The lines for different Diagnosis statuses (distinguished by color) appear to ha
 This indicates that Alzheimer's diagnosis is associated with lower cognitive performance, though there is still substantial overlap, meaning that not all low MMSE scores correspond strictly to Alzheimer's diagnosis.
 Potential Clusters and Overlaps:
 While there are clusters of lines in certain regions (e.g., higher Age with lower MMSE scores), the overlap among lines suggests a complex relationship where Diagnosis, Age, and BMI interact. More variables or detailed clustering analyses may be needed for further differentiation.
+
+
+
+
+How do the average values of key lifestyle, cognitive, and demographic variables differ between individuals diagnosed with Alzheimer's (Diagnosis = 1) and those not diagnosed (Diagnosis = 0)
+https://vizhub.com/Bashir1999/radialchart
+
+<img width="532" alt="Screenshot 1403-08-17 at 16 58 37" src="https://github.com/user-attachments/assets/73109f76-eea6-4bad-966c-46adb8fcc14c">
+
+Sleep Quality Difference:
+There is a noticeable difference in the SleepQuality scores between individuals with a Diagnosis of 1 (orange) and those with a Diagnosis of 0 (blue). The orange line extends significantly higher, suggesting that those diagnosed with Alzheimer's tend to have better average SleepQuality scores compared to those not diagnosed with the disease.
+This result might be unexpected or indicate data nuances, such as differences in sleep perception, measurement errors, or a confounding relationship worth further exploration.
+
+Physical Activity:
+There is a slight difference in PhysicalActivity between the groups, with the orange line (Diagnosis 1) slightly higher than the blue line (Diagnosis 0). This suggests that individuals diagnosed with Alzheimer's might have marginally higher average physical activity.
+However, this difference appears small, indicating that physical activity levels between the two groups do not differ dramatically in this dataset.
+
+BMI and Age:
+The BMI and Age values for both groups appear to be relatively similar, with minimal differences in the chart. This suggests that, in this dataset, there is no significant variation in these demographic factors between individuals diagnosed with Alzheimer's and those without the diagnosis.
+If there are differences, they are subtle, indicating that these factors alone may not be the primary distinguishing characteristics.
+
+MMSE Scores:
+There is a clear distinction in MMSE (Mini-Mental State Examination) scores between the groups. The line for Diagnosis 0 (blue) is higher than Diagnosis 1 (orange), indicating that individuals not diagnosed with Alzheimer's tend to have higher average cognitive function scores compared to those diagnosed.
+This aligns with the expectation that Alzheimer's is associated with cognitive decline, as reflected in lower MMSE scores.
+
 
 
 
