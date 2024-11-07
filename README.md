@@ -15,9 +15,8 @@ The following tasks and questions will drive the visualization and interaction d
  * How does the diagnosis rate vary between different genders? -- Done
  * How does educational level correlate with the risk of Alzheimer's? -- Done
  * What is the effect of smoking and alcohol consumption on Alzheimer's diagnosis? --
- * What is the correlation between cholesterol levels (total, LDL, HDL, and triglycerides) and Alzheimer's diagnosis?
  * What is the relationship between head injuries and Alzheimer's? -- DONE
- * What are the major risk factors for Alzheimer's in different ethnic groups?
+ * How do MMSE scores vary with Age and BMI across different diagnosis statuses? -- DONE
  * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients? -- DONE
  * How do physical activity interact to affect Alzheimer’s diagnosis? -- DONE
  * How do diet interact to affect Alzheimer’s diagnosis? -- DONE
