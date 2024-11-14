@@ -23,6 +23,9 @@ The following tasks and questions will drive the visualization and interaction d
  * What is the impact of memory complaints on Alzheimer’s diagnosis? -- DONE
  * Avg Cholesterol by Age Group -- DONE
  * What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients? -- DONE
+ * How does alcohol consumption vary by education level, and how does it differ across racial or ethnic groups within each education level? -- DONE
+ * How does the combination of smoking status and cholesterol levels influence the prevalence of cardiovascular disease (CVD)? -- DONE
+ * How does physical activity level vary with depression status, and does it differ between males and females? -- DONE
 
 ## Sketches
 
@@ -290,9 +293,55 @@ This aligns with the expectation that Alzheimer's is associated with cognitive d
 
 
 
+How does alcohol consumption vary by education level, and how does it differ across racial or ethnic groups within each education level?
 
-## Milestones
+https://vizhub.com/Bashir1999/alcohol_education
 
-- By the end of this week, three of the questions will be answered by various graphs
-- Another three questions will be answered by the end of the next week
-- And the last three questions will be answered by 26th of October or if sooner by, 2oth of October. 
+<img width="953" alt="Screenshot 1403-08-24 at 17 51 54" src="https://github.com/user-attachments/assets/5e43ddb7-f070-4be2-b7f2-7f4834a0beb2">
+
+Education Levels: There are four levels represented: None, High School, Bachelor's, and Higher.
+Alcohol Consumption (x-axis): The horizontal axis represents the extent of alcohol consumption, with wider bars indicating higher consumption.
+Racial/Ethnic Groups (Color Segments): Different colors indicate the proportions of alcohol consumption attributable to various racial or ethnic groups (e.g., Caucasian, African American, Asian, and Other).
+Key Observations:
+For those with no education, the majority of alcohol consumption appears to come from Caucasian and African American groups.
+Among individuals with a high school education, there is a more diverse distribution, with significant consumption from all represented racial groups.
+For bachelor's degree holders, consumption is largely driven by the Caucasian group, with smaller contributions from others.
+Individuals with higher education tend to have a varied but noticeably concentrated alcohol consumption in the Caucasian and Asian groups.
+
+
+
+How does the combination of smoking status and cholesterol levels influence the prevalence of cardiovascular disease (CVD)?
+
+
+https://vizhub.com/Bashir1999/smokingcvd
+
+<img width="958" alt="Screenshot 1403-08-24 at 18 20 38" src="https://github.com/user-attachments/assets/5f3c30b4-761f-4ca5-9c96-b520254c5294">
+
+
+
+Among smokers (Yes), there is a substantial proportion of individuals with higher cholesterol levels who have CVD (indicated by the orange segment), suggesting a higher risk of CVD with increased cholesterol levels among smokers.
+Among non-smokers (No), a relatively large orange segment is also observed as cholesterol levels increase, though there is also a significant portion of individuals without CVD (blue segment).
+Overall, CVD prevalence (orange bars) appears to be higher with increasing cholesterol levels, more pronounced among smokers compared to non-smokers.
+
+
+
+How does physical activity level vary with depression status, and does it differ between males and females?
+
+https://vizhub.com/Bashir1999/depressionphysical
+
+
+<img width="957" alt="Screenshot 1403-08-24 at 18 29 26" src="https://github.com/user-attachments/assets/4e0615a4-9531-4eb7-a5a8-73695c080d36">
+
+
+Among those with no depression, both males and females appear to engage in varying levels of physical activity. However, females generally show higher physical activity levels compared to males, as indicated by the longer orange segment on the right.
+Among individuals with depression, there is generally lower physical activity observed, and the majority of this group is male (indicated by the blue segment).
+Insights:
+Physical Activity and Depression: Lower physical activity levels appear to be associated with individuals experiencing depression. Those without depression tend to engage in higher physical activity levels.
+Gender Differences: Among individuals with no depression, females tend to be more physically active than males. However, among those with depression, males dominate the lower end of physical activity levels, which may suggest a stronger association between lower physical activity and depression in males.
+
+
+
+
+
+
+
