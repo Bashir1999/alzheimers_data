@@ -143,7 +143,8 @@ The data points are widely dispersed, indicating no obvious linear or non-linear
 Avg Cholesterol by Age Group:
 https://vizhub.com/Bashir1999/avgcholester
 
-<img width="790" alt="Screenshot 1403-08-02 at 19 49 28" src="https://github.com/user-attachments/assets/13857594-8ab8-4d38-84fe-30770736a112">
+<img width="804" alt="Screenshot 1403-08-30 at 14 34 00" src="https://github.com/user-attachments/assets/fa6204db-59c0-4949-8299-61d4741f10d6">
+
 
 The average cholesterol levels fluctuate slightly across different age groups but generally remain within a narrow range of about 220–230 mg/dL.
 This suggests that while there are some variations, cholesterol levels are relatively stable as age increases in this dataset.
