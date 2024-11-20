@@ -341,6 +341,34 @@ Gender Differences: Among individuals with no depression, females tend to be mor
 
 
 
+
+Impact of Age on Functional Assessment:
+
+https://vizhub.com/Bashir1999/functionalassessment
+
+<img width="826" alt="Screenshot 1403-08-30 at 14 26 53" src="https://github.com/user-attachments/assets/ea8cd6aa-254a-47ee-8ecc-0ad968b8e4d8">
+
+Consistency Across Ages:
+
+The average FunctionalAssessment remains relatively stable across the age range of 60 to 90.
+This suggests that age does not have a significant influence on the FunctionalAssessment variable.
+Fluctuations:
+
+Small fluctuations are observed between different ages, indicating some degree of variability in the average FunctionalAssessment values for certain age groups.
+These fluctuations might be due to sample size or external factors affecting the FunctionalAssessment values for specific ages.
+Peaks and Valleys:
+
+Minor peaks and valleys in the graph, such as those around ages 63, 78, and 85, may highlight anomalies or unique behavior within those age groups.
+This could warrant a closer investigation to determine the causes (e.g., external interventions or conditions specific to these age groups).
+Overall Range:
+
+The FunctionalAssessment values generally fall between 4 and 6, indicating a narrow range of variation.
+This implies a consistent measure of functionality assessment irrespective of age, with no outliers visible.
+No Significant Trend:
+
+There is no upward or downward trend across the age spectrum, which suggests that the relationship between age and FunctionalAssessment is likely weak or non-linear.
+
+
 Responsive Plots:
 
 https://vizhub.com/Bashir1999/responsivep
