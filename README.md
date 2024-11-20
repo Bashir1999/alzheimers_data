@@ -206,7 +206,8 @@ However, there is still a significant number of patients without memory complain
 What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
 https://vizhub.com/Bashir1999/alcohol-sleep-alzheimer
 
-<img width="829" alt="Screenshot 1403-08-08 at 20 18 45" src="https://github.com/user-attachments/assets/d068640f-ae32-4c69-8770-792acab6c9a3">
+<img width="837" alt="Screenshot 1403-08-30 at 14 38 03" src="https://github.com/user-attachments/assets/d9968d00-dc3f-4c5c-967f-20fcacb570e9">
+
 
 
 This heatmap suggests that alcohol consumption does not have a significant observable impact on sleep quality scores among Alzheimer's patients in this dataset. High sleep quality (8-10) is common across all levels of alcohol intake, and there are fewer patients with lower sleep quality (4-5), regardless of their alcohol consumption levels. This may indicate that other factors, not shown here, play a larger role in determining sleep quality among these patients.
