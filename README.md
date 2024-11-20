@@ -232,7 +232,9 @@ Caucasian Group: This group has relatively balanced rates between genders, with 
 What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients?
 https://vizhub.com/Bashir1999/alcohol-sleep-depression
 
-<img width="982" alt="Screenshot 1403-08-17 at 16 11 34" src="https://github.com/user-attachments/assets/b8221de7-b79f-4045-b89c-b08ee6229101">
+
+<img width="959" alt="Screenshot 1403-08-30 at 14 47 33" src="https://github.com/user-attachments/assets/f5e67939-d405-4be5-8541-be240952bc3e">
+
 
 
 Inverse Relationship Between Alcohol Consumption and Sleep Quality: The graph shows a downward trend, suggesting that as alcohol consumption increases, sleep quality tends to decrease. This inverse relationship may indicate that higher levels of alcohol intake have a negative impact on sleep quality.
@@ -251,8 +253,8 @@ How do MMSE scores vary with Age and BMI across different diagnosis statuses? (S
 
 https://vizhub.com/Bashir1999/mmse-bmi
 
-<img width="736" alt="Screenshot 1403-08-17 at 16 45 38" src="https://github.com/user-attachments/assets/75838b52-69d8-4213-a443-7a0da82b467b">
 
+<img width="762" alt="Screenshot 1403-08-30 at 14 50 51" src="https://github.com/user-attachments/assets/31b110eb-cdf9-40c4-9065-aa3bb09a4e0e">
 
 
 Age and MMSE Scores Trend:
@@ -275,7 +277,9 @@ While there are clusters of lines in certain regions (e.g., higher Age with lowe
 How do the average values of key lifestyle, cognitive, and demographic variables differ between individuals diagnosed with Alzheimer's (Diagnosis = 1) and those not diagnosed (Diagnosis = 0)
 https://vizhub.com/Bashir1999/radialchart
 
-<img width="532" alt="Screenshot 1403-08-17 at 16 58 37" src="https://github.com/user-attachments/assets/73109f76-eea6-4bad-966c-46adb8fcc14c">
+<img width="602" alt="Screenshot 1403-08-30 at 14 56 08" src="https://github.com/user-attachments/assets/60dd0080-ccbb-4ab7-bc32-d9df1fbb89a3">
+
+
 
 Sleep Quality Difference:
 There is a noticeable difference in the SleepQuality scores between individuals with a Diagnosis of 1 (orange) and those with a Diagnosis of 0 (blue). The orange line extends significantly higher, suggesting that those diagnosed with Alzheimer's tend to have better average SleepQuality scores compared to those not diagnosed with the disease.
@@ -299,7 +303,10 @@ How does alcohol consumption vary by education level, and how does it differ acr
 
 https://vizhub.com/Bashir1999/alcohol_education
 
-<img width="953" alt="Screenshot 1403-08-24 at 17 51 54" src="https://github.com/user-attachments/assets/5e43ddb7-f070-4be2-b7f2-7f4834a0beb2">
+
+<img width="956" alt="Screenshot 1403-08-30 at 14 59 51" src="https://github.com/user-attachments/assets/252825d6-58b6-4ba2-9b2f-2514c5b624c3">
+
+
 
 Education Levels: There are four levels represented: None, High School, Bachelor's, and Higher.
 Alcohol Consumption (x-axis): The horizontal axis represents the extent of alcohol consumption, with wider bars indicating higher consumption.
@@ -317,7 +324,8 @@ How does the combination of smoking status and cholesterol levels influence the 
 
 https://vizhub.com/Bashir1999/smokingcvd
 
-<img width="958" alt="Screenshot 1403-08-24 at 18 20 38" src="https://github.com/user-attachments/assets/5f3c30b4-761f-4ca5-9c96-b520254c5294">
+
+<img width="956" alt="Screenshot 1403-08-30 at 15 13 28" src="https://github.com/user-attachments/assets/a1a5450a-e934-4eab-ac0b-e9134b1b03c9">
 
 
 
@@ -332,7 +340,7 @@ How does physical activity level vary with depression status, and does it differ
 https://vizhub.com/Bashir1999/depressionphysical
 
 
-<img width="957" alt="Screenshot 1403-08-24 at 18 29 26" src="https://github.com/user-attachments/assets/4e0615a4-9531-4eb7-a5a8-73695c080d36">
+<img width="955" alt="Screenshot 1403-08-30 at 15 16 24" src="https://github.com/user-attachments/assets/b481b250-4c2b-42fc-89e9-824d70d679c9">
 
 
 Among those with no depression, both males and females appear to engage in varying levels of physical activity. However, females generally show higher physical activity levels compared to males, as indicated by the longer orange segment on the right.
