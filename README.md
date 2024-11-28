@@ -34,19 +34,17 @@ The following tasks and questions will drive the visualization and interaction d
 This graph can answer the first question: What is the distribution of Alzheimer's diagnosis across different age groups?
 By using variables such as age and percentage of those who are diagnosed, we can see which age group has the highest percentage of Azheimer's diagnosis, considering the fact, that there might be more people in one age group then other, which is why it is better to use average. 
 
-![image](https://github.com/user-attachments/assets/443e338c-9790-4c94-94da-c65779228977)
+![image](https://github.com/user-attachments/assets/443e338c-9790-4c94-94da-c65779228977) <br /> 
 
 
 
   
-<br /> 
 ### Memory Complaints Progression with Age:
 This graph can also be beneficial to see the effect of age on memory complaints, wether old people complain more about losing memory or not. 
 
-![image](https://github.com/user-attachments/assets/0b5005f0-7fb6-4a50-bacb-a403e315c3d3)
+![image](https://github.com/user-attachments/assets/0b5005f0-7fb6-4a50-bacb-a403e315c3d3) <br />
 
 
-<br />
 ### Cholestrol Total vs MMSE Scores:
 The data is visualized as a scatter plot showing the relationship between Cholesterol Total and MMSE Scores.
 
@@ -60,7 +58,7 @@ https://vizhub.com/Bashir1999/bmi_alzheimer
 
 <img width="795" alt="Screenshot 1403-08-01 at 21 11 21" src="https://github.com/user-attachments/assets/e3e18c8d-50fe-4a7d-b112-247d14da0bb5">
 
-In each BMI category (15-19, 20-24, 25-29, 30-34, 35-39), the number of individuals who are "Not Diagnosed" is consistently higher than those who are "Diagnosed." This indicates that, across all BMI ranges, a majority of individuals do not have an Alzheimer's diagnosis.
+<br /> In each BMI category (15-19, 20-24, 25-29, 30-34, 35-39), the number of individuals who are "Not Diagnosed" is consistently higher than those who are "Diagnosed." This indicates that, across all BMI ranges, a majority of individuals do not have an Alzheimer's diagnosis.
 
 The chart does not show a clear trend in Alzheimer's diagnosis rates based on BMI. For example, the diagnosis rates in lower BMI categories (15-19, 20-24) are similar to those in higher BMI categories (30-34, 35-39).
 This suggests that BMI may not be a strong indicator of Alzheimer's diagnosis, as there doesn’t appear to be a direct correlation between BMI and Alzheimer’s risk in this dataset.
@@ -71,12 +69,12 @@ The 20-24 BMI range has the highest number of Alzheimer's diagnoses among all ca
 
 
 
-Distribution of Alzheimer's diagnosis across different age groups:
+### Distribution of Alzheimer's diagnosis across different age groups:
 https://vizhub.com/Bashir1999/agegroup_alzheimer
 
 <img width="792" alt="Screenshot 1403-08-01 at 21 11 48" src="https://github.com/user-attachments/assets/04b91ff7-fbe5-4d77-8cf0-585f9ecf3e77">
 
-The chart shows an increase in the number of Alzheimer’s diagnoses (Diagnosis Positive) with age up to the 85-89 age group. This suggests that Alzheimer’s is more common in older populations, supporting the understanding that age is a significant risk factor for the disease.
+<br /> The chart shows an increase in the number of Alzheimer’s diagnoses (Diagnosis Positive) with age up to the 85-89 age group. This suggests that Alzheimer’s is more common in older populations, supporting the understanding that age is a significant risk factor for the disease.
 
 The 85-89 age group has the highest number of Alzheimer’s diagnoses, indicating that this age range may be particularly vulnerable to Alzheimer’s.
 After the 85-89 age group, there is a noticeable decline in both diagnosed and non-diagnosed individuals in the 90-94 group, which could reflect the reduced sample size or the challenges associated with aging.
@@ -90,12 +88,12 @@ The decline in both diagnosed and not diagnosed cases in the 90-94 age group cou
 
 
 
-How does the diagnosis rate vary between different genders?
+### How does the diagnosis rate vary between different genders?
 https://vizhub.com/Bashir1999/genders-diagnosis
 
 <img width="809" alt="Screenshot 1403-08-02 at 18 08 55" src="https://github.com/user-attachments/assets/c7b21874-02c4-4c3d-8a7b-29589d405c7c">
 
-The diagnosis rates between males and females are relatively close, indicating that gender alone may not be a significant differentiating factor for Alzheimer’s diagnosis in this dataset.
+<br /> The diagnosis rates between males and females are relatively close, indicating that gender alone may not be a significant differentiating factor for Alzheimer’s diagnosis in this dataset.
 Both genders have approximately the same proportion of diagnosed cases, with males slightly higher than females.
 
 Although the difference is small, males show a marginally higher rate of Alzheimer’s diagnosis compared to females. This could suggest a minor gender-related factor, but the gap is not large enough to draw strong conclusions about gender as a risk factor.
@@ -103,12 +101,12 @@ Although the difference is small, males show a marginally higher rate of Alzheim
 The similar diagnosis rates suggest that Alzheimer’s may affect both genders similarly, supporting the idea that other factors such as age, lifestyle, education level, or genetics may play a more significant role in Alzheimer’s risk than gender alone.
 
 
-How does educational level correlate with the risk of Alzheimer's?
+### How does educational level correlate with the risk of Alzheimer's?
 https://vizhub.com/Bashir1999/education-diagnosis
 
 <img width="807" alt="Screenshot 1403-08-02 at 18 21 27" src="https://github.com/user-attachments/assets/816b1e7e-a1f8-46f7-8f5d-b73c1aa7fdfc">
 
-Across all education levels, a higher percentage of individuals without a diagnosis (Not Diagnosed) is evident, but the proportion of diagnosed individuals varies slightly.
+<br /> Across all education levels, a higher percentage of individuals without a diagnosis (Not Diagnosed) is evident, but the proportion of diagnosed individuals varies slightly.
 The Bachelor's and Higher education groups have a slightly higher proportion of individuals who are "Not Diagnosed" compared to those with no formal education or only a high school education.
 
 Individuals with no formal education or only a high school education tend to have a relatively higher proportion of Alzheimer’s diagnoses than those with a Bachelor's or Higher education level.
@@ -118,12 +116,12 @@ The data supports the idea of a protective effect of education against Alzheimer
 
 
 
-What is the relationship between head injuries and Alzheimer's? 
+### What is the relationship between head injuries and Alzheimer's? 
 https://vizhub.com/Bashir1999/head-injuries-diagnosis
 
 <img width="793" alt="Screenshot 1403-08-02 at 19 14 44" src="https://github.com/user-attachments/assets/41169947-130a-4008-b342-9e8aa86f0c3c">
 
-The Head Injury group has a noticeably higher proportion of patients diagnosed with Alzheimer's compared to the No Head Injury group. This suggests that a history of head injury might be associated with an increased risk of Alzheimer’s.
+<br /> The Head Injury group has a noticeably higher proportion of patients diagnosed with Alzheimer's compared to the No Head Injury group. This suggests that a history of head injury might be associated with an increased risk of Alzheimer’s.
 
 In the No Head Injury group, the majority of patients are in the "Not Diagnosed" category, with a smaller percentage diagnosed with Alzheimer’s.
 Conversely, for those with a Head Injury, the percentage of Alzheimer’s diagnoses is higher, indicating that head injuries may play a significant role in the likelihood of developing Alzheimer’s.
@@ -135,22 +133,22 @@ Preventative measures to reduce head injuries, such as promoting helmet use, fal
 
 
 
-Relationship between BMI and Diet Quality:
+### Relationship between BMI and Diet Quality:
 https://vizhub.com/Bashir1999/bmi-diet
 
 <img width="778" alt="Screenshot 1403-08-02 at 19 33 31" src="https://github.com/user-attachments/assets/f248ef08-ac2c-42b9-9789-f456fd289a52">
 
-The data points are widely dispersed, indicating no obvious linear or non-linear relationship between BMI and Diet Quality. This suggests that individuals with a high or low BMI can have any level of diet quality, from poor to excellent.
+<br /> The data points are widely dispersed, indicating no obvious linear or non-linear relationship between BMI and Diet Quality. This suggests that individuals with a high or low BMI can have any level of diet quality, from poor to excellent.
 
 
 
-Avg Cholesterol by Age Group:
+### Avg Cholesterol by Age Group:
 https://vizhub.com/Bashir1999/avgcholester
 
 <img width="804" alt="Screenshot 1403-08-30 at 14 34 00" src="https://github.com/user-attachments/assets/fa6204db-59c0-4949-8299-61d4741f10d6">
 
 
-The average cholesterol levels fluctuate slightly across different age groups but generally remain within a narrow range of about 220–230 mg/dL.
+<br /> The average cholesterol levels fluctuate slightly across different age groups but generally remain within a narrow range of about 220–230 mg/dL.
 This suggests that while there are some variations, cholesterol levels are relatively stable as age increases in this dataset.
 
 There is a noticeable peak in the 85-89 age group where the average cholesterol level is around 228 mg/dL, followed by a slight decline in the 90-94 age group.
@@ -161,12 +159,12 @@ However, there is a subsequent rise from the 75-79 to the 80-84 age group, follo
 
 
 
-Relationship between Physical Activity and Alzheimer's Diagnosis:
+### Relationship between Physical Activity and Alzheimer's Diagnosis:
 https://vizhub.com/Bashir1999/physical-activity-alzheimers
 
 <img width="780" alt="Screenshot 1403-08-08 at 17 15 06" src="https://github.com/user-attachments/assets/9e2ced6f-e77e-4992-b3f4-f4d402f29449">
 
-Across all levels of physical activity (Active, Barely Active, Highly Active, Moderately Active), the "Diagnosis Negative" group consistently has a higher number of patients than the "Diagnosis Positive" group. This suggests a trend where higher physical activity levels are associated with a reduced likelihood of an Alzheimer’s diagnosis.
+<br /> Across all levels of physical activity (Active, Barely Active, Highly Active, Moderately Active), the "Diagnosis Negative" group consistently has a higher number of patients than the "Diagnosis Positive" group. This suggests a trend where higher physical activity levels are associated with a reduced likelihood of an Alzheimer’s diagnosis.
 Among the Moderately Active and Active groups, the difference between "Diagnosis Negative" and "Diagnosis Positive" is the most pronounced, indicating that moderate to high physical activity might offer protective benefits against Alzheimer’s.
 
 The Barely Active group has the smallest difference between "Diagnosis Negative" and "Diagnosis Positive" counts, suggesting that low physical activity levels may correlate with a higher risk of Alzheimer’s. The smaller gap in this category could imply that insufficient activity could be a potential risk factor.
@@ -182,12 +180,12 @@ The observed trend across all physical activity categories supports the idea tha
 
 
 
-Relationship between Diet Quality and Alzheimer's Diagnosis:
+### Relationship between Diet Quality and Alzheimer's Diagnosis:
 https://vizhub.com/Bashir1999/diet-alzheimer
 
 <img width="794" alt="Screenshot 1403-08-08 at 17 34 45" src="https://github.com/user-attachments/assets/c962d006-b976-4c76-a31c-2b83dd629f2a">
 
-Patients with Excellent diet quality show fewer Alzheimer's diagnoses compared to those with lower diet quality. The "Diagnosis Negative" bars are taller than the "Diagnosis Positive" bars in this category, suggesting a potential protective effect of high diet quality.
+<br /> Patients with Excellent diet quality show fewer Alzheimer's diagnoses compared to those with lower diet quality. The "Diagnosis Negative" bars are taller than the "Diagnosis Positive" bars in this category, suggesting a potential protective effect of high diet quality.
 
 Interestingly, Fair and Good diet quality levels have a similar pattern, with "Diagnosis Negative" counts significantly higher than "Diagnosis Positive." However, both categories also have a relatively high number of Alzheimer's diagnoses.
 This suggests that while a fair or good diet quality might reduce the risk compared to poor diet quality, it may not be as protective as an excellent diet.
@@ -196,44 +194,44 @@ Among patients with Poor diet quality, there is a considerable number of Alzheim
 
 
 
-What is the impact of memory complaints on Alzheimer’s diagnosis?
+### What is the impact of memory complaints on Alzheimer’s diagnosis?
 https://vizhub.com/Bashir1999/memory-alzheimer
 
 <img width="800" alt="Screenshot 1403-08-08 at 17 40 54" src="https://github.com/user-attachments/assets/28960d7f-3efb-4141-ad1e-ea985093dbff">
 
-Among patients with memory complaints (Yes), a higher number are diagnosed with Alzheimer's (Diagnosis Positive) compared to those not diagnosed (Diagnosis Negative).
+<br /> Among patients with memory complaints (Yes), a higher number are diagnosed with Alzheimer's (Diagnosis Positive) compared to those not diagnosed (Diagnosis Negative).
 This suggests that memory complaints are a potential indicator or symptom associated with Alzheimer's, as individuals reporting memory issues are more likely to receive a positive diagnosis.
 Interestingly, the majority of patients who do not report memory complaints (No) are in the Diagnosis Negative category, meaning they are not diagnosed with Alzheimer's.
 However, there is still a significant number of patients without memory complaints who are diagnosed with Alzheimer's, indicating that some Alzheimer's cases may not initially present with memory complaints.
 
 
-What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
+### What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
 https://vizhub.com/Bashir1999/alcohol-sleep-alzheimer
 
 <img width="837" alt="Screenshot 1403-08-30 at 14 38 03" src="https://github.com/user-attachments/assets/d9968d00-dc3f-4c5c-967f-20fcacb570e9">
 
 
 
-This heatmap suggests that alcohol consumption does not have a significant observable impact on sleep quality scores among Alzheimer's patients in this dataset. High sleep quality (8-10) is common across all levels of alcohol intake, and there are fewer patients with lower sleep quality (4-5), regardless of their alcohol consumption levels. This may indicate that other factors, not shown here, play a larger role in determining sleep quality among these patients.
+<br /> This heatmap suggests that alcohol consumption does not have a significant observable impact on sleep quality scores among Alzheimer's patients in this dataset. High sleep quality (8-10) is common across all levels of alcohol intake, and there are fewer patients with lower sleep quality (4-5), regardless of their alcohol consumption levels. This may indicate that other factors, not shown here, play a larger role in determining sleep quality among these patients.
 
 
 
 
 
-Avg Depression Rate by Ethnicity and Gender:
+### Avg Depression Rate by Ethnicity and Gender:
 https://vizhub.com/Bashir1999/avgdepressionrateethnicity
 
 <img width="792" alt="Screenshot 1403-08-08 at 22 28 12" src="https://github.com/user-attachments/assets/4e57051d-ef73-40aa-b785-e0da48e761ca">
 
 
-For most ethnic groups, females show a higher average depression rate than males. This trend is evident in the "Other" and "African American" categories, where the female depression rate is significantly higher.
+<br /> For most ethnic groups, females show a higher average depression rate than males. This trend is evident in the "Other" and "African American" categories, where the female depression rate is significantly higher.
 In the Caucasian and Asian groups, the depression rates between males and females are relatively similar, indicating less gender disparity in these groups.
 "Other" Ethnicity: This group shows the highest depression rate, especially among females. This could indicate that individuals in this category are at a higher risk of depression, possibly due to unique socio-cultural or environmental factors.
 African American and Asian groups show moderate depression rates, with females slightly higher than males.
 Caucasian Group: This group has relatively balanced rates between genders, with both males and females showing moderate levels of depression compared to the "Other" group.
 
 
-What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients?
+### What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients?
 https://vizhub.com/Bashir1999/alcohol-sleep-depression
 
 
@@ -241,7 +239,7 @@ https://vizhub.com/Bashir1999/alcohol-sleep-depression
 
 
 
-Inverse Relationship Between Alcohol Consumption and Sleep Quality: The graph shows a downward trend, suggesting that as alcohol consumption increases, sleep quality tends to decrease. This inverse relationship may indicate that higher levels of alcohol intake have a negative impact on sleep quality.
+<br /> Inverse Relationship Between Alcohol Consumption and Sleep Quality: The graph shows a downward trend, suggesting that as alcohol consumption increases, sleep quality tends to decrease. This inverse relationship may indicate that higher levels of alcohol intake have a negative impact on sleep quality.
 
 Distribution of Depression Status: The two colors (orange and blue) represent different Depression statuses (0 and 1). It appears that data points for both depression groups are intermingled across all levels of Alcohol Consumption and Sleep Quality. However, there might be patterns worth exploring, such as potential clusters or distribution differences between these two groups.
 
@@ -253,7 +251,7 @@ Overlapping Data Points: The overlapping of blue and orange data points in many 
 
 
 
-How do MMSE scores vary with Age and BMI across different diagnosis statuses? (Sample 100 Data Points)
+### How do MMSE scores vary with Age and BMI across different diagnosis statuses? (Sample 100 Data Points)
 
 https://vizhub.com/Bashir1999/mmse-bmi
 
@@ -261,7 +259,7 @@ https://vizhub.com/Bashir1999/mmse-bmi
 <img width="762" alt="Screenshot 1403-08-30 at 14 50 51" src="https://github.com/user-attachments/assets/31b110eb-cdf9-40c4-9065-aa3bb09a4e0e">
 
 
-Age and MMSE Scores Trend:
+<br /> Age and MMSE Scores Trend:
 There appears to be a general downward trend in MMSE scores as Age increases, indicating that older individuals tend to have lower MMSE scores, which may reflect a decline in cognitive function with age.
 The distribution of lines suggests that this trend might be more pronounced for individuals diagnosed with Alzheimer's (e.g., lines in one color cluster lower in MMSE scores as Age increases).
 BMI Distribution:
@@ -278,14 +276,14 @@ While there are clusters of lines in certain regions (e.g., higher Age with lowe
 
 
 
-How do the average values of key lifestyle, cognitive, and demographic variables differ between individuals diagnosed with Alzheimer's (Diagnosis = 1) and those not diagnosed (Diagnosis = 0)
+### How do the average values of key lifestyle, cognitive, and demographic variables differ between individuals diagnosed with Alzheimer's (Diagnosis = 1) and those not diagnosed (Diagnosis = 0)
 https://vizhub.com/Bashir1999/radialchart
 
 <img width="602" alt="Screenshot 1403-08-30 at 14 56 08" src="https://github.com/user-attachments/assets/60dd0080-ccbb-4ab7-bc32-d9df1fbb89a3">
 
 
 
-Sleep Quality Difference:
+<br /> Sleep Quality Difference:
 There is a noticeable difference in the SleepQuality scores between individuals with a Diagnosis of 1 (orange) and those with a Diagnosis of 0 (blue). The orange line extends significantly higher, suggesting that those diagnosed with Alzheimer's tend to have better average SleepQuality scores compared to those not diagnosed with the disease.
 This result might be unexpected or indicate data nuances, such as differences in sleep perception, measurement errors, or a confounding relationship worth further exploration.
 
@@ -303,7 +301,7 @@ This aligns with the expectation that Alzheimer's is associated with cognitive d
 
 
 
-How does alcohol consumption vary by education level, and how does it differ across racial or ethnic groups within each education level?
+### How does alcohol consumption vary by education level, and how does it differ across racial or ethnic groups within each education level?
 
 https://vizhub.com/Bashir1999/alcohol_education
 
@@ -312,7 +310,7 @@ https://vizhub.com/Bashir1999/alcohol_education
 
 
 
-Education Levels: There are four levels represented: None, High School, Bachelor's, and Higher.
+<br /> Education Levels: There are four levels represented: None, High School, Bachelor's, and Higher.
 Alcohol Consumption (x-axis): The horizontal axis represents the extent of alcohol consumption, with wider bars indicating higher consumption.
 Racial/Ethnic Groups (Color Segments): Different colors indicate the proportions of alcohol consumption attributable to various racial or ethnic groups (e.g., Caucasian, African American, Asian, and Other).
 Key Observations:
@@ -323,7 +321,7 @@ Individuals with higher education tend to have a varied but noticeably concentra
 
 
 
-How does the combination of smoking status and cholesterol levels influence the prevalence of cardiovascular disease (CVD)?
+### How does the combination of smoking status and cholesterol levels influence the prevalence of cardiovascular disease (CVD)?
 
 
 https://vizhub.com/Bashir1999/smokingcvd
@@ -333,13 +331,13 @@ https://vizhub.com/Bashir1999/smokingcvd
 
 
 
-Among smokers (Yes), there is a substantial proportion of individuals with higher cholesterol levels who have CVD (indicated by the orange segment), suggesting a higher risk of CVD with increased cholesterol levels among smokers.
+<br /> Among smokers (Yes), there is a substantial proportion of individuals with higher cholesterol levels who have CVD (indicated by the orange segment), suggesting a higher risk of CVD with increased cholesterol levels among smokers.
 Among non-smokers (No), a relatively large orange segment is also observed as cholesterol levels increase, though there is also a significant portion of individuals without CVD (blue segment).
 Overall, CVD prevalence (orange bars) appears to be higher with increasing cholesterol levels, more pronounced among smokers compared to non-smokers.
 
 
 
-How does physical activity level vary with depression status, and does it differ between males and females?
+### How does physical activity level vary with depression status, and does it differ between males and females?
 
 https://vizhub.com/Bashir1999/depressionphysical
 
@@ -347,7 +345,7 @@ https://vizhub.com/Bashir1999/depressionphysical
 <img width="955" alt="Screenshot 1403-08-30 at 15 16 24" src="https://github.com/user-attachments/assets/b481b250-4c2b-42fc-89e9-824d70d679c9">
 
 
-Among those with no depression, both males and females appear to engage in varying levels of physical activity. However, females generally show higher physical activity levels compared to males, as indicated by the longer orange segment on the right.
+<br /> Among those with no depression, both males and females appear to engage in varying levels of physical activity. However, females generally show higher physical activity levels compared to males, as indicated by the longer orange segment on the right.
 Among individuals with depression, there is generally lower physical activity observed, and the majority of this group is male (indicated by the blue segment).
 Insights:
 Physical Activity and Depression: Lower physical activity levels appear to be associated with individuals experiencing depression. Those without depression tend to engage in higher physical activity levels.
@@ -356,13 +354,13 @@ Gender Differences: Among individuals with no depression, females tend to be mor
 
 
 
-Impact of Age on Functional Assessment:
+### Impact of Age on Functional Assessment:
 
 https://vizhub.com/Bashir1999/functionalassessment
 
 <img width="826" alt="Screenshot 1403-08-30 at 14 26 53" src="https://github.com/user-attachments/assets/ea8cd6aa-254a-47ee-8ecc-0ad968b8e4d8">
 
-Consistency Across Ages:
+<br /> Consistency Across Ages:
 
 The average FunctionalAssessment remains relatively stable across the age range of 60 to 90.
 This suggests that age does not have a significant influence on the FunctionalAssessment variable.
@@ -383,7 +381,7 @@ No Significant Trend:
 There is no upward or downward trend across the age spectrum, which suggests that the relationship between age and FunctionalAssessment is likely weak or non-linear.
 
 
-Responsive Plots:
+### Responsive Plots:
 
 https://vizhub.com/Bashir1999/responsivep
 
