@@ -6,8 +6,8 @@ The data I propose to visualize for my project is Alzheimer's Disease Dataset
 Link to dataset: https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 
 
-## Questions & Tasks
-
+## Questions & Tasks  
+  
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * What is the relationship between BMI and Alzheimer's diagnosis? -- Done
