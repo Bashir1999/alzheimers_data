@@ -425,3 +425,9 @@ https://vizhub.com/Bashir1999/responsivep
 Expanding the dataset would not only enable more sophisticated analyses but also facilitate the use of advanced visualization techniques such as scatter plots, heatmaps, or interactive network diagrams to reveal patterns and correlations. Additionally, integrating data from diverse sources—such as genetic, lifestyle, and environmental factors—could provide deeper insights into the complex relationships affecting Alzheimer's disease. By doing so, we aim to uncover meaningful trends, enhance storytelling through visuals, and support more data-driven conclusions about the factors contributing to the disease.
 
 
+
+
+### Presentation:
+
+https://youtu.be/qRb7hR7Sby4
+
