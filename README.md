@@ -30,7 +30,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 
-Distribution of Age by Alzheimer's Diagnosis:
+### Distribution of Age by Alzheimer's Diagnosis:
 This graph can answer the first question: What is the distribution of Alzheimer's diagnosis across different age groups?
 By using variables such as age and percentage of those who are diagnosed, we can see which age group has the highest percentage of Azheimer's diagnosis, considering the fact, that there might be more people in one age group then other, which is why it is better to use average. 
 
@@ -39,7 +39,7 @@ By using variables such as age and percentage of those who are diagnosed, we can
 
 
   
-Memory Complaints Progression with Age:
+<br /> ### Memory Complaints Progression with Age:
 This graph can also be beneficial to see the effect of age on memory complaints, wether old people complain more about losing memory or not. 
 
 ![image](https://github.com/user-attachments/assets/0b5005f0-7fb6-4a50-bacb-a403e315c3d3)
