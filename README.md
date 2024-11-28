@@ -37,6 +37,8 @@ By using variables such as age and percentage of those who are diagnosed, we can
 ![image](https://github.com/user-attachments/assets/443e338c-9790-4c94-94da-c65779228977)
 
 
+
+  
 Memory Complaints Progression with Age:
 This graph can also be beneficial to see the effect of age on memory complaints, wether old people complain more about losing memory or not. 
 
