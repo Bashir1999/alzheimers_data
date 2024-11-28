@@ -10,22 +10,52 @@ Link to dataset: https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disea
   
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * What is the relationship between BMI and Alzheimer's diagnosis? -- Done
- * What is the distribution of Alzheimer's diagnosis across different age groups? -- Done
- * How does the diagnosis rate vary between different genders? -- Done
- * How does educational level correlate with the risk of Alzheimer's? -- Done
- * How do the average values of key lifestyle, cognitive, and demographic variables differ between individuals diagnosed with Alzheimer's (Diagnosis = 1) and those not diagnosed (Diagnosis = 0)? -- DONE
- * What is the relationship between head injuries and Alzheimer's? -- DONE
- * How do MMSE scores vary with Age and BMI across different diagnosis statuses? -- DONE
- * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients? -- DONE
- * How do physical activity interact to affect Alzheimer’s diagnosis? -- DONE
- * How do diet interact to affect Alzheimer’s diagnosis? -- DONE
- * What is the impact of memory complaints on Alzheimer’s diagnosis? -- DONE
- * Avg Cholesterol by Age Group -- DONE
- * What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients? -- DONE
- * How does alcohol consumption vary by education level, and how does it differ across racial or ethnic groups within each education level? -- DONE
- * How does the combination of smoking status and cholesterol levels influence the prevalence of cardiovascular disease (CVD)? -- DONE
- * How does physical activity level vary with depression status, and does it differ between males and females? -- DONE
+ * What is the relationship between BMI and Alzheimer's diagnosis? 
+ * What is the distribution of Alzheimer's diagnosis across different age groups? 
+ * How does the diagnosis rate vary between different genders? 
+ * How does educational level correlate with the risk of Alzheimer's?
+ * How do the average values of key lifestyle, cognitive, and demographic variables differ between individuals diagnosed with Alzheimer's (Diagnosis = 1) and those not diagnosed (Diagnosis = 0)? 
+ * What is the relationship between head injuries and Alzheimer's? 
+ * How do MMSE scores vary with Age and BMI across different diagnosis statuses? 
+ * What is the effect of alcohol consumption on sleep quality among Alzheimer’s patients?
+ * How do physical activity interact to affect Alzheimer’s diagnosis? 
+ * How do diet interact to affect Alzheimer’s diagnosis? 
+ * What is the impact of memory complaints on Alzheimer’s diagnosis? 
+ * Avg Cholesterol by Age Group
+ * What is the relationship between Alcohol Consumption and Sleep Quality on Depressed and Non-depressed patients? 
+ * How does alcohol consumption vary by education level, and how does it differ across racial or ethnic groups within each education level? 
+ * How does the combination of smoking status and cholesterol levels influence the prevalence of cardiovascular disease (CVD)?
+ * How does physical activity level vary with depression status, and does it differ between males and females?
+
+
+
+## Methodology
+
+All the graphs were created using JavaScript on the VizHub website, leveraging its capabilities for building interactive and dynamic visualizations. Most of the graphs followed a consistent workflow, which included the following steps:
+
+Data Preparation:
+The datasets were cleaned, formatted, and processed to ensure compatibility with D3.js. Missing or inconsistent values were handled appropriately, and relevant attributes were selected for visualization.
+
+Data Import:
+The data was imported into the visualization script using D3's built-in functions, such as d3.csv() or d3.json(), depending on the format of the dataset.
+
+Setting Up SVG Canvas:
+A scalable vector graphics (SVG) container was created as the primary canvas for rendering the visualizations. This included specifying dimensions, margins, and scaling elements.
+
+Creating Scales and Axes:
+Linear, ordinal, or logarithmic scales were defined based on the data attributes. Axes were generated using D3's d3.axisBottom(), d3.axisLeft(), and other axis functions, ensuring accurate representation of the data.
+
+Binding Data to Visual Elements:
+The data was bound to graphical elements such as bars, circles, or lines using D3's data-join pattern. This allowed for dynamic generation of visual elements based on the dataset.
+
+Adding Interactivity:
+Interactivity features such as tooltips, hover effects, and clickable elements were implemented to enhance user engagement. These were achieved using event listeners like on('mouseover'), on('mouseout'), and on('click').
+
+Styling and Customization:
+CSS and inline styles were used to customize the appearance of the graphs, ensuring clear and aesthetically pleasing visualizations.
+
+Iterative Refinement:
+The graphs underwent multiple iterations to optimize layout, improve readability, and ensure that the visualizations effectively conveyed the intended insights. <br /> <br /> <br />
 
 ## Sketches
 
