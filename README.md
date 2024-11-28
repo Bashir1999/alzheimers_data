@@ -39,13 +39,15 @@ By using variables such as age and percentage of those who are diagnosed, we can
 
 
   
-<br /> ### Memory Complaints Progression with Age:
+<br /> 
+### Memory Complaints Progression with Age:
 This graph can also be beneficial to see the effect of age on memory complaints, wether old people complain more about losing memory or not. 
 
 ![image](https://github.com/user-attachments/assets/0b5005f0-7fb6-4a50-bacb-a403e315c3d3)
 
 
-Cholestrol Total vs MMSE Scores:
+<br />
+### Cholestrol Total vs MMSE Scores:
 The data is visualized as a scatter plot showing the relationship between Cholesterol Total and MMSE Scores.
 
 ![image](https://github.com/user-attachments/assets/79014c93-f177-4eb0-9b76-12d313222622)
@@ -53,7 +55,7 @@ The data is visualized as a scatter plot showing the relationship between Choles
 
 ## Prototypes
 
-Relationship between BMI & Alzheimer's Diagnosis:
+### Relationship between BMI & Alzheimer's Diagnosis:
 https://vizhub.com/Bashir1999/bmi_alzheimer
 
 <img width="795" alt="Screenshot 1403-08-01 at 21 11 21" src="https://github.com/user-attachments/assets/e3e18c8d-50fe-4a7d-b112-247d14da0bb5">
